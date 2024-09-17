@@ -6,7 +6,7 @@
 I'm a researcher and developer focused on bringing competitiveness to local industries by leading innovative R&D projects in industrial automation, IoT, data science, and machine learning. I hold a master's degree in Systems Engineering and I'm currently pursuing a Ph.D. in Systems Engineering.
 
 ## ⚡ Skills:  
-![Industrial-Automation](https://img.shields.io/badge/-IndustrialAutomation-blue) | ![IIoT](https://img.shields.io/badge/-IIoT-blue) | ![Data-Science](https://img.shields.io/badge/-DataScience-blue) | ![Machine-Learning](https://img.shields.io/badge/-MachineLearning-blue) | ![R&D](https://img.shields.io/badge/-R&D-blue) | ![Industry-4.0](https://img.shields.io/badge/-Industry_4.0-blue)
+![Industrial-Automation](https://img.shields.io/badge/-Industrial_Automation-blue) | ![IIoT](https://img.shields.io/badge/-IIoT-blue) | ![Data-Science](https://img.shields.io/badge/-Data_Science-blue) | ![Machine-Learning](https://img.shields.io/badge/-Machine_Learning-blue) | ![R&D](https://img.shields.io/badge/-R&D-blue) | ![Industry-4.0](https://img.shields.io/badge/-Industry_4.0-blue)
 
 ## 🛠️ Languages:  
 ![Python](https://img.shields.io/badge/-Python-yellow) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![SQL](https://img.shields.io/badge/-SQL-lightgrey) ![Java](https://img.shields.io/badge/-Java-red) ![C](https://img.shields.io/badge/-C-blue) ![C++](https://img.shields.io/badge/-C++-blue) ![C#](https://img.shields.io/badge/-C%23-blueviolet) ![VisualBasic](https://img.shields.io/badge/-VisualBasic-orange) ![ShellScript](https://img.shields.io/badge/-ShellScript-lightgreen)
